@@ -1,4 +1,7 @@
 ### local settings.
+# for vscode
+.vscode
+
 # Prerequisites
 *.d
 
